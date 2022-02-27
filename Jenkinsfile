@@ -3,4 +3,14 @@ pipeline{
   stages{
     stage("build"){
       steps{
-      echo "ashwini"}}}}
+      echo "ashwini"
+      }
+    }
+    stage("test")
+    {
+    steps{
+      echo "testing"
+    }
+  }
+  }
+}
