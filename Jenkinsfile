@@ -4,4 +4,4 @@ agent any
     stage("build"){
       steps{
         echo "building project"
-      echo " hloo"}}}}
+      echo " hloo this is me"}}}}
