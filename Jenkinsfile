@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage("build"){
       steps{
-        echo "devops exam"
+        echo "devops exam today"
       }
     }
   }
